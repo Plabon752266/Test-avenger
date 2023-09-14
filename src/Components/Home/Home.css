@@ -1,0 +1,8 @@
+.default{
+    background-image: url('https://i.ibb.co/TwNQJmX/bangladesh-flag-wrinkled-dark-background-3d-render.jpg'), linear-gradient(#3d3e40,#19547b);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    background-blend-mode: overlay;
+}
